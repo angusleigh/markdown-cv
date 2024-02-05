@@ -1,24 +1,24 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Angus Leigh's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Angus Leigh
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="angusleigh@gmail.com">angusleigh@gmail.com</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### Sama
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+AI-inspired tools for efficient labelling of lidar, video and radar data
+• SLAM: https://www.sama.com/blog/slam-for-efficient-lidar-labeling
+• 3D object detection and tracking
+• Client advisory and sensor calibration for autonomous vehicles
+• Research and experiments for potential applications of LLMs and Generative AI
+Python, PyTorch, Docker, AWS, Argo, Kubernetes
 
 ### Research interests
 
@@ -27,19 +27,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2015`
+__McGill University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- MSc, Computer Science. Supervised by Joelle Pineau
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Specializing in machine learning, robotics and computer vision
 
 
 ## Awards
